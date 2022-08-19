@@ -8,6 +8,6 @@ Para clonar el repositorio hacer
  git clone https://github.com/tpihjmorais/TPI.git
 ```
 
-## Documentacion
+## Documentación
 
 Para documentar usamos Docsify...
